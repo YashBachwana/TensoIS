@@ -8,7 +8,7 @@ If you find TensoIS useful for your work please cite:
   author    = {Tiwari, Ashish and Bhardwaj, Satyam and Bachwana, Yash and Sahu, Parag Sarvoday and Ali, T. M. Feroz and Chintalapati, Bhargava and Raman, Shanmuganathan},
   title     = {TensoIS: A Step Towards Feed-Forward Tensorial Inverse Scattering for Perlin Distributed Heterogeneous Media},
   journal   = {Computer Graphics Forum (CGF)},
-  year      = {2025}
+  year      = {2025} 
 }
 ```
 # Courtesy : [Nerfies](https://nerfies.github.io/)
