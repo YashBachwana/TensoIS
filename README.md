@@ -4,7 +4,7 @@ This is the repository that contains source code for the [TensoIS website](https
 
 If you find TensoIS useful for your work please cite:
 ```
-@article{cvig2025tensois,
+@article{tiwari2025tensois,
   author    = {Tiwari, Ashish and Bhardwaj, Satyam and Bachwana, Yash and Sahu, Parag Sarvoday and Ali, T. M. Feroz and Chintalapati, Bhargava and Raman, Shanmuganathan},
   title     = {TensoIS: A Step Towards Feed-Forward Tensorial Inverse Scattering for Perlin Distributed Heterogeneous Media},
   journal   = {Computer Graphics Forum (CGF)},
